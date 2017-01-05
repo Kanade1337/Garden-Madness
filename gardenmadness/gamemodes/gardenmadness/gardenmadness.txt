@@ -1,0 +1,79 @@
+"gardenmadness"
+{
+	"base"		"base"
+	"title"		"Garden Madness"
+	"maps"		"^gma_"
+	"menusystem"	"1"
+	
+	"settings"
+	{
+		1
+		{
+			"name"		"gma_preparingtime"
+			"text"		"Preparing time"
+			"type"		"Numeric"
+			"default"	"15"
+		}
+		
+		2
+		{
+			"name"		"gma_roundtime"
+			"text"		"Round time"
+			"type"		"Numeric"
+			"default"	"180"
+		}
+		
+		3
+		{
+			"name"		"gma_posttime"
+			"text"		"Post time"
+			"type"		"Numeric"
+			"default"	"10"
+		}
+		
+		4
+		{
+			"name"		"gma_minimumplayers"
+			"text"		"Minimum players"
+			"type"		"Numeric"
+			"default"	"2"
+		}
+		
+		5
+		{
+			"name"		"gma_spawntime"
+			"text"		"Respawn time"
+			"type"		"Numeric"
+			"default"	"10"
+		}
+		6
+		{
+			"name"		"gma_attackinterval"
+			"text"		"Attack interval"
+			"type"		"Numeric"
+			"default"	"10"
+		}
+		7
+		{
+			"name"		"gma_mode"
+			"text"		"Mode"
+			"type"		"Numeric"
+			"default"	"arcade"
+		}
+		8
+		{
+			"name"		"gma_maxscore"
+			"text"		"Score limit"
+			"type"		"Numeric"
+			"default"	"50"
+		}
+		
+		9
+		{
+			"name"		"gma_healinwater"
+			"text"		"Heal in water"
+			"type"		"CheckBox"
+			"default"	"1"
+		}
+	}
+}

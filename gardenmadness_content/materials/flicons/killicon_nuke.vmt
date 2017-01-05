@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "flicons/killicon_nuke"
+	"$translucent" 1
+}
